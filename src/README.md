@@ -14,7 +14,7 @@ The project depends on a MongoDB database. You can [install locally](https://www
     # Windows
     set MONGODB_URI=<connection string>
     ```
-
+ 
 1. Install the NPM packages and start the server
 
     ```bash
